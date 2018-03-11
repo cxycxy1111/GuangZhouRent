@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GuangZhouRent">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuangZhouRent</output-path>
+    <root id="archive" name="GuangZhouRent.war">
+      <element id="artifact" artifact-name="GuangZhouRent:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.34-bin" />
+          <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/JSON/json-20170516.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/JSON/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/commons-lang3-3.5/commons-lang3-3.5.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/GSON/gson-2.8.2.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/c3p0-oracle-thin-extras-0.9.5.2.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/mchange-commons-java-0.2.11.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/mysql-connector-java-5.1.34-bin.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/mysql-connector-java-5.1.44-bin.jar" />
+          <element id="file-copy" path="/Volumes/Transcend/jar/org.apache.commons.lang_2.4.0.v201005080502.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
